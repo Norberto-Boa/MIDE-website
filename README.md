@@ -32,8 +32,8 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-
-Write about 1-2 paragraphs describing the purpose of your project.
+This is a website developed with React-TS from vite's framework, which was developed
+for the MIDE microcredito company. Please enjoy.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
